@@ -1,0 +1,8 @@
+﻿  main_seri.cpp
+C:\Users\YAGMUR\Desktop\a\kmeanssequantial\main_seri.cpp(27,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\YAGMUR\Desktop\a\kmeanssequantial\main_seri.cpp(78,16): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+C:\Users\YAGMUR\Desktop\a\kmeanssequantial\main_seri.cpp(133,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\YAGMUR\Desktop\a\kmeanssequantial\main_seri.cpp(140,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\YAGMUR\Desktop\a\kmeanssequantial\main_seri.cpp(171,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\YAGMUR\Desktop\a\kmeanssequantial\main_seri.cpp(186,23): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  seri.vcxproj -> C:\Users\YAGMUR\Desktop\a\kmeanssequantial\Debug\seri.exe
